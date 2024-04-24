@@ -7,4 +7,5 @@ bin
 
 #Ignore Idea folder of IntelliJ ID
 .idea
+.idea/*
 .vscode
