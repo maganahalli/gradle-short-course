@@ -3,7 +3,8 @@
 
 # Ignore Gradle build output directory
 build
-Bin
+bin
 
 #Ignore Idea folder of IntelliJ ID
 .idea
+.vscode
